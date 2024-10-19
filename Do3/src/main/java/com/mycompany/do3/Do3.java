@@ -21,12 +21,11 @@ public class Do3 {
            
            if (num != 0) {
                cont++;
-            System.out.println("Você inseriu" +cont+ "números.");
+            System.out.println("Você inseriu" + cont + "números.");
            }
          
        }while (num !=0); 
-       
-       
+        System.out.println("Você inseriu" + cont + "números.");
        scanner.close();
         
        
