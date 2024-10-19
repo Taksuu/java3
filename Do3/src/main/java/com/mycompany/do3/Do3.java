@@ -16,7 +16,7 @@ public class Do3 {
         int num;
         
        do {
-           System.out.print("Digite um número INT");
+           System.out.println("Digite um número INT");
            num = scanner.nextInt();
            
            if (num != 0) {
